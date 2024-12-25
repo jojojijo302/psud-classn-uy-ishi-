@@ -1,0 +1,221 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+.container{
+    width:90% ;
+    margin: 0 auto;
+}
+
+
+.p1{
+    color: aliceblue;
+    background-color: aqua;
+}
+
+.p1:hover{
+    color: black;
+    background-color: aqua;
+}
+
+
+.p2{
+    color: aliceblue;
+    background-color: rgb(38, 0, 255);
+}
+
+.p2:hover{
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.p3{
+    color: aliceblue;
+    background-color: aqua;
+}
+
+.p3:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 234);
+}
+
+.p4{
+    color: rgba(0, 131, 246, 0.293);
+    background-color: aqua;
+}
+
+.p4:hover{
+    color: black;
+    background-color: rgba(255, 0, 0, 0.559);
+}
+
+.p5{
+    color: rgb(50, 59, 60);
+    background-color: rgb(100, 141, 141);
+}
+
+.p5:hover{
+    color: rgba(45, 246, 10, 0.536);
+    background-color: rgba(21, 36, 36, 0.589);
+}
+
+.p6{
+    color: rgb(119, 91, 91);
+    background-color: rgba(255, 234, 0, 0.512);
+}
+
+.p6:hover{
+    color: black;
+    background-color: rgba(0, 255, 255, 0.166);
+}
+
+.p7{
+    color: rgb(61, 78, 93);
+    background-color: rgb(108, 212, 212);
+}
+
+.p7:hover{
+    color: rgb(228, 117, 117);
+    background-color: rgb(137, 111, 131);
+}
+.p8{
+    color: rgba(220, 166, 6, 0.49);
+    background-color: rgba(79, 79, 79, 0.856);
+}
+
+.p8:hover{
+    color: rgba(255, 87, 87, 0.525);
+    background-color: rgba(24, 56, 56, 0.699);
+}
+
+.p9{
+    color: rgba(69, 69, 69, 0);
+    background-color: rgb(5, 14, 14);
+}
+
+.p9:hover{
+    color: rgba(7, 67, 13, 0.418);
+    background-color: aqua;
+}
+
+.p10{
+    color: rgb(54, 95, 131);
+    background-color: rgba(84, 152, 152, 0);
+}
+
+.p10:hover{
+    color: rgba(189, 25, 25, 0.448);
+    background-color: rgb(255, 0, 0);
+}
+
+
+
+
+.k1{
+    color: blue;
+    background-color: black;
+}
+
+.k1:active{
+    color: black;
+    background-color:blue ;
+font-size: 20px;
+}
+
+
+.k2{
+    color: rgba(196, 196, 255, 0.097);
+    background-color: rgb(71, 69, 69);
+}
+
+.k2:active{
+    color: rgba(81, 58, 167, 0.256);
+    background-color:rgba(88, 88, 137, 0.238) ;
+    font-size: 30px;
+}
+
+.k3{
+    color: rgba(191, 191, 191, 0.097);
+    background-color: rgb(71, 69, 69);
+}
+
+.k3:active{
+    color: rgba(44, 42, 42, 0.419);
+    background-color:rgba(27, 32, 25, 0.338) ;
+   ;
+}
+.k4{
+    color: rgba(196, 196, 255, 0.097);
+    background-color: rgb(71, 69, 69);
+}
+
+.k4:active{
+    color: rgba(205, 20, 20, 0.419);
+    background-color:rgba(0, 0, 255, 0.314) ;
+    font-size: 30px;
+}
+.k5{
+    color: rgb(18, 18, 53);
+    background-color: rgb(229, 255, 0);
+}
+
+.k5:active{
+    color: rgba(202, 255, 10, 0.263);
+    background-color:blue ;
+   
+}
+
+ q {
+color: blue;
+background-color: aqua;
+}
+
+ q:focus{
+    color: aqua;
+    background-color: black;
+}
+
+
+ w {
+    color: rgb(38, 38, 142);
+    background-color: aqua;
+    }
+    
+    w:focus{
+        color: aqua;
+        background-color: rgb(255, 0, 0);
+    }
+
+
+ .k{
+        color: rgba(126, 126, 228, 0.54);
+        background-color: aqua;
+        }
+        
+         qk:focus{
+            color: rgb(52, 98, 98);
+            background-color: rgb(103, 30, 30);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
